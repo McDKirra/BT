@@ -15,7 +15,7 @@ export default class Bot extends React.Component<IBotProps, IBotState> {
 
     this.state = {
       directLink: new DirectLine({
-        secret: "Ihx07DHSM8w.-ZSO_6YTtYu3qXVWoKWCPcWGiGKl9NQtGwz5peB1QdQ"
+        secret: ///secret
       })
     };
   }
