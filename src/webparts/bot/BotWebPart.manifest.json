@@ -1,6 +1,6 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
-  "id": "d6f9093a-06b8-44fb-8dbb-65a6cefcaea8",
+  "id": "59dfec84-3f68-4b5e-aa6d-2d1690356b28",
   "alias": "BotWebPart",
   "componentType": "WebPart",
 
@@ -17,11 +17,11 @@
   "preconfiguredEntries": [{
     "groupId": "5c03119e-3074-46fd-976b-c60198311f70", // Other
     "group": { "default": "Other" },
-    "title": { "default": "bot" },
-    "description": { "default": "bot" },
+    "title": { "default": "BOT" },
+    "description": { "default": "BOT" },
     "officeFabricIconFontName": "Page",
     "properties": {
-      "description": "bot"
+      "description": "BOT"
     }
   }]
 }
